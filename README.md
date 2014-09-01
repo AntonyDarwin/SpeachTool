@@ -1,4 +1,0 @@
-SpeachTool
-==========
-
-Text To Speach
